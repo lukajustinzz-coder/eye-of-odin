@@ -1,0 +1,16 @@
+{
+  "dodge": {
+    "subtitle": "subtitles.eyeofodin.dodge",
+    "sounds": [
+      "eyeofodin:dodge",
+      "eyeofodin:dodge2",
+      "eyeofodin:dodge3",
+      "eyeofodin:dodge4",
+      "eyeofodin:dodge5"
+    ]
+  },
+  "overheated": {
+    "subtitle": "subtitles.eyeofodin.overheated",
+    "sounds": ["eyeofodin:overheated"]
+  }
+}

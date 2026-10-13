@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["GGG", "GEG", "GGG"],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "E": "minecraft:ender_eye"
+  },
+  "result": { "id": "eyeofodin:eye_of_odin", "count": 1 }
+}
