@@ -23,10 +23,11 @@ jobs:
       uses: gradle/actions/setup-gradle@v3
 
     - name: Build with Gradle
+      working-directory: eye-of-odin
       run: gradle build
 
     - name: Upload Artifact
       uses: actions/upload-artifact@v4
       with:
         name: compiled-mod
-        path: build/libs/*.jar
+        path: eye-of-odin/build/libs/*.jar
